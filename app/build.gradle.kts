@@ -10,8 +10,8 @@ android {
         applicationId = "com.ultron.mobile"
         minSdk = 29
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0.0-alpha.1"
+        versionCode = 2
+        versionName = "1.0.0-alpha.2"
     }
     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
     kotlinOptions { jvmTarget = "17" }
